@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>This is where I keep m'quotes.</h1>
+    <!-- some php with if statment and for loop and then the quotes -->
 </body>
 </html>
