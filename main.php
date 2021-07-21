@@ -9,5 +9,10 @@
 <body>
     <h1>This is where I keep m'quotes.</h1>
     <!-- some php with if statment and for loop and then the quotes -->
+    <?php 
+    //need an if isset
+    foreach($_SESSION['quotes'] as $quote)
+    //print out them quotes, name, and date info
+    ?>
 </body>
 </html>
