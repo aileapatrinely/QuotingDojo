@@ -16,7 +16,7 @@
             <h3>"<?= $quote['quote']?>"</h3>
             <h5>- <?= $quote['name'] ?> at <?= date_format(date_create($quote['created_at']), 'h:i a M d Y')?></h5>
         </div>
-        }
+    <?php }
     } ?>
 </body>
 </html>
